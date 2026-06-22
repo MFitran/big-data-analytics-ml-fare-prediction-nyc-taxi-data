@@ -24,6 +24,6 @@ Predicting taxi fares accurately helps both riders and fleet operators estimate 
 
 ## 📂 Repository Structure
 
-├── fare_prediction_nyc_taxi_dataset.ipynb   # Main Jupyter Notebook containing EDA & ML code
-├── report_document.pdf                     # Comprehensive final project report (PDF)
-└── README.md                               # Project documentation
+* fare_prediction_nyc_taxi_dataset.ipynb
+* report_document.pdf
+* README.md
